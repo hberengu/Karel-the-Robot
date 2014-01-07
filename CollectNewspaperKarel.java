@@ -15,6 +15,13 @@ public class CollectNewspaperKarel extends SuperKarel {
 	public void run() {
 		move();
 		move();
+		turnLeft();
+		move();
+		turnLeft();
+		turnLeft();
+		turnLeft();
+		move()
+		pickBeeper();
 	}
 
 }
